@@ -1,0 +1,1997 @@
+[
+    {
+        "pid": 0,
+        "name": "System Idle Process",
+        "cpu_percent": 0.0,
+        "memory_percent": 3.2171564519268355e-05,
+        "status": "running"
+    },
+    {
+        "pid": 4,
+        "name": "System",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.014075059477179904,
+        "status": "running"
+    },
+    {
+        "pid": 140,
+        "name": "",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.26348511341280784,
+        "status": "stopped"
+    },
+    {
+        "pid": 172,
+        "name": "Registry",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.17266478677491326,
+        "status": "running"
+    },
+    {
+        "pid": 696,
+        "name": "smss.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.004568362161736107,
+        "status": "running"
+    },
+    {
+        "pid": 756,
+        "name": "csrss.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.020975860066562966,
+        "status": "running"
+    },
+    {
+        "pid": 796,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.056300237908719616,
+        "status": "running"
+    },
+    {
+        "pid": 852,
+        "name": "powershell.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.24287922633821646,
+        "status": "running"
+    },
+    {
+        "pid": 924,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.04389809978654167,
+        "status": "running"
+    },
+    {
+        "pid": 1076,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.029823040309361764,
+        "status": "running"
+    },
+    {
+        "pid": 1136,
+        "name": "wininit.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.02533510705892383,
+        "status": "running"
+    },
+    {
+        "pid": 1160,
+        "name": "csrss.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.026155481954165172,
+        "status": "running"
+    },
+    {
+        "pid": 1180,
+        "name": "msedgewebview2.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.0801554529997571,
+        "status": "running"
+    },
+    {
+        "pid": 1212,
+        "name": "services.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.04037531347168179,
+        "status": "running"
+    },
+    {
+        "pid": 1256,
+        "name": "LsaIso.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.012932968936745878,
+        "status": "running"
+    },
+    {
+        "pid": 1268,
+        "name": "lsass.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.09585517648516007,
+        "status": "running"
+    },
+    {
+        "pid": 1280,
+        "name": "backgroundTaskHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.011646106355975143,
+        "status": "stopped"
+    },
+    {
+        "pid": 1344,
+        "name": "winlogon.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.046970484198131796,
+        "status": "running"
+    },
+    {
+        "pid": 1412,
+        "name": "SystemSettingsBroker.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.14126533980410735,
+        "status": "running"
+    },
+    {
+        "pid": 1468,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.13507231363414818,
+        "status": "running"
+    },
+    {
+        "pid": 1496,
+        "name": "fontdrvhost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.013801601178766124,
+        "status": "running"
+    },
+    {
+        "pid": 1504,
+        "name": "fontdrvhost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.02908309432541859,
+        "status": "running"
+    },
+    {
+        "pid": 1576,
+        "name": "WUDFHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.0324771943822014,
+        "status": "running"
+    },
+    {
+        "pid": 1644,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.07193561826508404,
+        "status": "running"
+    },
+    {
+        "pid": 1688,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.044605874205965575,
+        "status": "running"
+    },
+    {
+        "pid": 1692,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.06588736413546159,
+        "status": "running"
+    },
+    {
+        "pid": 1712,
+        "name": "backgroundTaskHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.016680956203240643,
+        "status": "stopped"
+    },
+    {
+        "pid": 1788,
+        "name": "WUDFHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.07220907656349783,
+        "status": "running"
+    },
+    {
+        "pid": 1844,
+        "name": "WUDFHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.07159781683763172,
+        "status": "running"
+    },
+    {
+        "pid": 1892,
+        "name": "WUDFHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.022037521695698822,
+        "status": "running"
+    },
+    {
+        "pid": 1912,
+        "name": "msedgewebview2.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.15448785282152663,
+        "status": "running"
+    },
+    {
+        "pid": 1940,
+        "name": "WUDFHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.02433778855882651,
+        "status": "running"
+    },
+    {
+        "pid": 2028,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.020766744897187724,
+        "status": "running"
+    },
+    {
+        "pid": 2104,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.040021426261969834,
+        "status": "running"
+    },
+    {
+        "pid": 2112,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.03969971061677715,
+        "status": "running"
+    },
+    {
+        "pid": 2136,
+        "name": "backgroundTaskHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.016182296953191982,
+        "status": "stopped"
+    },
+    {
+        "pid": 2196,
+        "name": "IntelCpHDCPSvc.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.023436984752286994,
+        "status": "running"
+    },
+    {
+        "pid": 2204,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.036562983076148484,
+        "status": "running"
+    },
+    {
+        "pid": 2236,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.04209649217346264,
+        "status": "running"
+    },
+    {
+        "pid": 2252,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.022471837816708945,
+        "status": "running"
+    },
+    {
+        "pid": 2280,
+        "name": "NahimicSvc64.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.03188202043859494,
+        "status": "running"
+    },
+    {
+        "pid": 2284,
+        "name": "Discord.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.6939293866330367,
+        "status": "running"
+    },
+    {
+        "pid": 2288,
+        "name": "NahimicSvc32.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.01475066233208454,
+        "status": "running"
+    },
+    {
+        "pid": 2316,
+        "name": "msedgewebview2.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.08150665870956637,
+        "status": "running"
+    },
+    {
+        "pid": 2324,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.02776406018012859,
+        "status": "running"
+    },
+    {
+        "pid": 2384,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.06686859685329928,
+        "status": "running"
+    },
+    {
+        "pid": 2436,
+        "name": "MemCompression",
+        "cpu_percent": 0.0,
+        "memory_percent": 5.447257132837999,
+        "status": "running"
+    },
+    {
+        "pid": 2612,
+        "name": "RuntimeBroker.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.07439674295080807,
+        "status": "running"
+    },
+    {
+        "pid": 2692,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.028906150720562615,
+        "status": "running"
+    },
+    {
+        "pid": 2700,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.03688469872134117,
+        "status": "running"
+    },
+    {
+        "pid": 2772,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.06313669536906415,
+        "status": "running"
+    },
+    {
+        "pid": 2788,
+        "name": "msedge.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.15429482343441103,
+        "status": "running"
+    },
+    {
+        "pid": 2852,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.05835921803795279,
+        "status": "running"
+    },
+    {
+        "pid": 2868,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.06265412190127512,
+        "status": "running"
+    },
+    {
+        "pid": 2924,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.023227869582911752,
+        "status": "running"
+    },
+    {
+        "pid": 2928,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.04730828562558411,
+        "status": "running"
+    },
+    {
+        "pid": 2940,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.029485238881909445,
+        "status": "running"
+    },
+    {
+        "pid": 3012,
+        "name": "NahimicAPO4Volume.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.024884705155654073,
+        "status": "running"
+    },
+    {
+        "pid": 3056,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.03673992668100446,
+        "status": "running"
+    },
+    {
+        "pid": 3096,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.03900802197961288,
+        "status": "running"
+    },
+    {
+        "pid": 3152,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.03297585363225006,
+        "status": "running"
+    },
+    {
+        "pid": 3160,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.03300802519676933,
+        "status": "running"
+    },
+    {
+        "pid": 3376,
+        "name": "AccountsControlHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.20855216699615708,
+        "status": "stopped"
+    },
+    {
+        "pid": 3384,
+        "name": "POWERPNT.EXE",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9911898170563984,
+        "status": "running"
+    },
+    {
+        "pid": 3420,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.034182287301722625,
+        "status": "running"
+    },
+    {
+        "pid": 3432,
+        "name": "RtkAudUService64.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.04970506718226961,
+        "status": "running"
+    },
+    {
+        "pid": 3472,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.03838067647148714,
+        "status": "running"
+    },
+    {
+        "pid": 3492,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.025367278623443096,
+        "status": "running"
+    },
+    {
+        "pid": 3604,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.029855211873881033,
+        "status": "running"
+    },
+    {
+        "pid": 3620,
+        "name": "msedge.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.04555493535928399,
+        "status": "running"
+    },
+    {
+        "pid": 3696,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.05737798532011511,
+        "status": "running"
+    },
+    {
+        "pid": 3724,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.027603202357532247,
+        "status": "running"
+    },
+    {
+        "pid": 3836,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.07854687477379368,
+        "status": "running"
+    },
+    {
+        "pid": 3932,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.03966753905225788,
+        "status": "running"
+    },
+    {
+        "pid": 3940,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.04068094333461483,
+        "status": "running"
+    },
+    {
+        "pid": 4000,
+        "name": "msedge.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.0871205967181787,
+        "status": "running"
+    },
+    {
+        "pid": 4048,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.026975856849406513,
+        "status": "running"
+    },
+    {
+        "pid": 4120,
+        "name": "msedgewebview2.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.7263534979337812,
+        "status": "running"
+    },
+    {
+        "pid": 4156,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.07521711784604941,
+        "status": "running"
+    },
+    {
+        "pid": 4180,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.045281477060870205,
+        "status": "running"
+    },
+    {
+        "pid": 4296,
+        "name": "spoolsv.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.05547986301347828,
+        "status": "running"
+    },
+    {
+        "pid": 4324,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.06307235224002561,
+        "status": "running"
+    },
+    {
+        "pid": 4384,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.029855211873881033,
+        "status": "running"
+    },
+    {
+        "pid": 4400,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.04664876855293911,
+        "status": "running"
+    },
+    {
+        "pid": 4420,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.09772112722727763,
+        "status": "running"
+    },
+    {
+        "pid": 4576,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.16328677571754655,
+        "status": "running"
+    },
+    {
+        "pid": 4592,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.19393019092214964,
+        "status": "running"
+    },
+    {
+        "pid": 4612,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.021651462921467603,
+        "status": "running"
+    },
+    {
+        "pid": 4624,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.04008576939100837,
+        "status": "running"
+    },
+    {
+        "pid": 4636,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.07981765157230479,
+        "status": "running"
+    },
+    {
+        "pid": 4644,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.09350665227525347,
+        "status": "running"
+    },
+    {
+        "pid": 4652,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.032991939414509695,
+        "status": "running"
+    },
+    {
+        "pid": 4672,
+        "name": "XtuService.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.17116880902476728,
+        "status": "running"
+    },
+    {
+        "pid": 4732,
+        "name": "RtkBtManServ.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.02654154072839639,
+        "status": "running"
+    },
+    {
+        "pid": 4760,
+        "name": "NahimicService.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.1099463217445996,
+        "status": "running"
+    },
+    {
+        "pid": 4768,
+        "name": "AISControlService.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.02633242555902115,
+        "status": "running"
+    },
+    {
+        "pid": 4776,
+        "name": "LenovoUtilityService.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.04557102114154362,
+        "status": "running"
+    },
+    {
+        "pid": 4784,
+        "name": "ipf_uf.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.029855211873881033,
+        "status": "running"
+    },
+    {
+        "pid": 4792,
+        "name": "LenovoVantageService.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.24434303252384315,
+        "status": "running"
+    },
+    {
+        "pid": 4832,
+        "name": "backgroundTaskHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.015233235799873566,
+        "status": "stopped"
+    },
+    {
+        "pid": 4848,
+        "name": "vmnetdhcp.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.02264878142156492,
+        "status": "running"
+    },
+    {
+        "pid": 4856,
+        "name": "vmnat.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.028134033172100177,
+        "status": "running"
+    },
+    {
+        "pid": 4872,
+        "name": "OneApp.IGCC.WinService.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.1389811587232393,
+        "status": "running"
+    },
+    {
+        "pid": 4884,
+        "name": "Lenovo.Modern.ImController.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.1668095620324064,
+        "status": "running"
+    },
+    {
+        "pid": 4900,
+        "name": "UDClientService.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.15054683616791625,
+        "status": "running"
+    },
+    {
+        "pid": 4912,
+        "name": "ipfsvc.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.02326004114743102,
+        "status": "running"
+    },
+    {
+        "pid": 4920,
+        "name": "IntelAudioService.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.11242353221258326,
+        "status": "running"
+    },
+    {
+        "pid": 4944,
+        "name": "servicehost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.12960314766587258,
+        "status": "running"
+    },
+    {
+        "pid": 4956,
+        "name": "SecurityHealthSystray.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.04027879877812398,
+        "status": "running"
+    },
+    {
+        "pid": 4960,
+        "name": "AppProvisioningPlugin.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.11095972602695656,
+        "status": "running"
+    },
+    {
+        "pid": 5004,
+        "name": "backgroundTaskHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.008863266025058431,
+        "status": "stopped"
+    },
+    {
+        "pid": 5008,
+        "name": "WMIRegistrationService.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.05786055878790414,
+        "status": "running"
+    },
+    {
+        "pid": 5016,
+        "name": "mc-fw-host.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.48530805077316314,
+        "status": "running"
+    },
+    {
+        "pid": 5028,
+        "name": "SecurityHealthService.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.07124392962791977,
+        "status": "running"
+    },
+    {
+        "pid": 5044,
+        "name": "RtkAudUService64.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.042932952850963615,
+        "status": "running"
+    },
+    {
+        "pid": 5052,
+        "name": "jhi_service.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.026107224607386268,
+        "status": "running"
+    },
+    {
+        "pid": 5060,
+        "name": "MsMpEng.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9649860777554543,
+        "status": "running"
+    },
+    {
+        "pid": 5072,
+        "name": "MpDefenderCoreService.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.09386053948496542,
+        "status": "running"
+    },
+    {
+        "pid": 5208,
+        "name": "OfficeClickToRun.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.1541339656118147,
+        "status": "running"
+    },
+    {
+        "pid": 5300,
+        "name": "ai.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.0773726126688404,
+        "status": "running"
+    },
+    {
+        "pid": 5312,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.029099180107678226,
+        "status": "running"
+    },
+    {
+        "pid": 5448,
+        "name": "vmware-authd.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.04873992024669156,
+        "status": "running"
+    },
+    {
+        "pid": 5468,
+        "name": "vmware-usbarbitrator64.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.050477184730732046,
+        "status": "running"
+    },
+    {
+        "pid": 5484,
+        "name": "ms-teams.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.12241280299581608,
+        "status": "running"
+    },
+    {
+        "pid": 5608,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.03788201722143849,
+        "status": "running"
+    },
+    {
+        "pid": 5740,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.02712062888974322,
+        "status": "running"
+    },
+    {
+        "pid": 5912,
+        "name": "WmiPrvSE.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.06569433474834598,
+        "status": "running"
+    },
+    {
+        "pid": 5972,
+        "name": "POWERPNT.EXE",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.7217529642075259,
+        "status": "running"
+    },
+    {
+        "pid": 6016,
+        "name": "Discord.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.31188723223204706,
+        "status": "running"
+    },
+    {
+        "pid": 6928,
+        "name": "WindowsPackageManagerServer.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.10555490318771947,
+        "status": "running"
+    },
+    {
+        "pid": 7348,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.02798926113176347,
+        "status": "running"
+    },
+    {
+        "pid": 7468,
+        "name": "RuntimeBroker.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.028327062559215785,
+        "status": "running"
+    },
+    {
+        "pid": 7776,
+        "name": "AggregatorHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.04594099413351521,
+        "status": "running"
+    },
+    {
+        "pid": 7880,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.0228257250264209,
+        "status": "running"
+    },
+    {
+        "pid": 7892,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.03398925791460702,
+        "status": "running"
+    },
+    {
+        "pid": 8112,
+        "name": "conhost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.04492758985115826,
+        "status": "running"
+    },
+    {
+        "pid": 8236,
+        "name": "NisSrv.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.04495976141567752,
+        "status": "running"
+    },
+    {
+        "pid": 8252,
+        "name": "PhoneExperienceHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.6006270237924805,
+        "status": "running"
+    },
+    {
+        "pid": 8492,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.03561392192283007,
+        "status": "running"
+    },
+    {
+        "pid": 8548,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.04370507039942606,
+        "status": "running"
+    },
+    {
+        "pid": 8856,
+        "name": "pycharm64.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 13.280357490424938,
+        "status": "running"
+    },
+    {
+        "pid": 8880,
+        "name": "msedge.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0646857562006669,
+        "status": "running"
+    },
+    {
+        "pid": 9052,
+        "name": "sihost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.1339463088759738,
+        "status": "running"
+    },
+    {
+        "pid": 9480,
+        "name": "ApplicationFrameHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.12730288080274488,
+        "status": "running"
+    },
+    {
+        "pid": 9528,
+        "name": "LenovoVantage-(GenericMessagingAddin).exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.022037521695698822,
+        "status": "running"
+    },
+    {
+        "pid": 9536,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.09916884763064471,
+        "status": "running"
+    },
+    {
+        "pid": 9620,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.07956027905615064,
+        "status": "running"
+    },
+    {
+        "pid": 9664,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.02884180759152408,
+        "status": "running"
+    },
+    {
+        "pid": 9768,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.034166201519462994,
+        "status": "running"
+    },
+    {
+        "pid": 9820,
+        "name": "msedge.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.03500266219696397,
+        "status": "running"
+    },
+    {
+        "pid": 9840,
+        "name": "ipf_helper.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.03712598545523568,
+        "status": "running"
+    },
+    {
+        "pid": 9872,
+        "name": "uihost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.11152272840604376,
+        "status": "running"
+    },
+    {
+        "pid": 9920,
+        "name": "FnHotkeyUtility.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.0960642916545353,
+        "status": "running"
+    },
+    {
+        "pid": 10028,
+        "name": "msedgewebview2.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.09402139730756176,
+        "status": "running"
+    },
+    {
+        "pid": 10056,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.024691675768538462,
+        "status": "running"
+    },
+    {
+        "pid": 10188,
+        "name": "mc-fw-host.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.1075012828411352,
+        "status": "running"
+    },
+    {
+        "pid": 10228,
+        "name": "RuntimeBroker.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.0577962156588656,
+        "status": "running"
+    },
+    {
+        "pid": 10300,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.13693826437626574,
+        "status": "running"
+    },
+    {
+        "pid": 10332,
+        "name": "msedgewebview2.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.4004716351358525,
+        "status": "running"
+    },
+    {
+        "pid": 10452,
+        "name": "dllhost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.039924911568412026,
+        "status": "running"
+    },
+    {
+        "pid": 10484,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.06714205515171305,
+        "status": "running"
+    },
+    {
+        "pid": 10500,
+        "name": "taskhostw.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.08570504787933089,
+        "status": "running"
+    },
+    {
+        "pid": 10556,
+        "name": "msedge.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.5228088349550484,
+        "status": "running"
+    },
+    {
+        "pid": 10612,
+        "name": "backgroundTaskHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.016471841033865398,
+        "status": "stopped"
+    },
+    {
+        "pid": 10636,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.04783911644015204,
+        "status": "running"
+    },
+    {
+        "pid": 10732,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.02858443507536993,
+        "status": "running"
+    },
+    {
+        "pid": 10816,
+        "name": "explorer.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.2861387205690507,
+        "status": "running"
+    },
+    {
+        "pid": 10876,
+        "name": "msedge.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.08173185966120125,
+        "status": "running"
+    },
+    {
+        "pid": 10900,
+        "name": "unsecapp.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.03341016975326018,
+        "status": "running"
+    },
+    {
+        "pid": 10956,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.09812327178376848,
+        "status": "running"
+    },
+    {
+        "pid": 10984,
+        "name": "RuntimeBroker.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.08687930998428418,
+        "status": "running"
+    },
+    {
+        "pid": 11048,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.07946376436259284,
+        "status": "running"
+    },
+    {
+        "pid": 11060,
+        "name": "msedgewebview2.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.04809648895630619,
+        "status": "running"
+    },
+    {
+        "pid": 11164,
+        "name": "FnHotkeyCapsLKNumLK.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.05192490513409912,
+        "status": "running"
+    },
+    {
+        "pid": 11364,
+        "name": "backgroundTaskHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.009410182621885994,
+        "status": "stopped"
+    },
+    {
+        "pid": 11460,
+        "name": "SearchHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.3394791745419976,
+        "status": "stopped"
+    },
+    {
+        "pid": 11492,
+        "name": "StartMenuExperienceHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.35187648692949763,
+        "status": "running"
+    },
+    {
+        "pid": 11600,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.03575869396316678,
+        "status": "running"
+    },
+    {
+        "pid": 11700,
+        "name": "WidgetBoard.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.31314192324829854,
+        "status": "running"
+    },
+    {
+        "pid": 11756,
+        "name": "RuntimeBroker.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.10541013114738276,
+        "status": "running"
+    },
+    {
+        "pid": 11840,
+        "name": "RuntimeBroker.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.2801017264870099,
+        "status": "running"
+    },
+    {
+        "pid": 11872,
+        "name": "msedgewebview2.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.4423590121399399,
+        "status": "running"
+    },
+    {
+        "pid": 11912,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.07552274770898246,
+        "status": "running"
+    },
+    {
+        "pid": 12280,
+        "name": "Nahimic3.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.010262729081646604,
+        "status": "stopped"
+    },
+    {
+        "pid": 12356,
+        "name": "dllhost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.0642466143449789,
+        "status": "running"
+    },
+    {
+        "pid": 12548,
+        "name": "msedge.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.23564062432138108,
+        "status": "running"
+    },
+    {
+        "pid": 12552,
+        "name": "msedge.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.1250556970210739,
+        "status": "running"
+    },
+    {
+        "pid": 12704,
+        "name": "SearchIndexer.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.1786165262109779,
+        "status": "running"
+    },
+    {
+        "pid": 12992,
+        "name": "backgroundTaskHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.012739939549630269,
+        "status": "stopped"
+    },
+    {
+        "pid": 13032,
+        "name": "ctfmon.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.11255221847066034,
+        "status": "running"
+    },
+    {
+        "pid": 13192,
+        "name": "unsecapp.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.03432705934205933,
+        "status": "running"
+    },
+    {
+        "pid": 13328,
+        "name": "msedgewebview2.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.04727611406106485,
+        "status": "running"
+    },
+    {
+        "pid": 13380,
+        "name": "RuntimeBroker.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.11416079669662375,
+        "status": "running"
+    },
+    {
+        "pid": 13584,
+        "name": "msedgewebview2.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.28158161845489627,
+        "status": "running"
+    },
+    {
+        "pid": 13628,
+        "name": "msedge.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.2324234678694542,
+        "status": "running"
+    },
+    {
+        "pid": 13664,
+        "name": "msedgewebview2.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.019512053880936256,
+        "status": "running"
+    },
+    {
+        "pid": 13856,
+        "name": "backgroundTaskHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.011951736218908193,
+        "status": "stopped"
+    },
+    {
+        "pid": 13960,
+        "name": "ShellExperienceHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.3081714165300716,
+        "status": "stopped"
+    },
+    {
+        "pid": 14028,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.08335652366942431,
+        "status": "running"
+    },
+    {
+        "pid": 14172,
+        "name": "msedge.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.021458433534351992,
+        "status": "running"
+    },
+    {
+        "pid": 14184,
+        "name": "LocationNotificationWindows.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.012932968936745878,
+        "status": "running"
+    },
+    {
+        "pid": 14196,
+        "name": "Resilio Sync.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.1754637128880896,
+        "status": "running"
+    },
+    {
+        "pid": 14364,
+        "name": "conhost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.035823037092205315,
+        "status": "running"
+    },
+    {
+        "pid": 14504,
+        "name": "Discord.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.48879866552350376,
+        "status": "running"
+    },
+    {
+        "pid": 14752,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.0546434023359773,
+        "status": "running"
+    },
+    {
+        "pid": 14792,
+        "name": "msedge.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.0970937817191519,
+        "status": "running"
+    },
+    {
+        "pid": 14892,
+        "name": "LenovoVantage-(LenovoGamingSystemAddin).exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.04290078128644435,
+        "status": "running"
+    },
+    {
+        "pid": 14960,
+        "name": "dwm.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.6869915887444564,
+        "status": "running"
+    },
+    {
+        "pid": 15004,
+        "name": "RuntimeBroker.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.14795702522411516,
+        "status": "running"
+    },
+    {
+        "pid": 15028,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.057394071102374745,
+        "status": "running"
+    },
+    {
+        "pid": 15060,
+        "name": "LenovoVantage-(VantageCoreAddin).exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.018321705993723326,
+        "status": "running"
+    },
+    {
+        "pid": 15172,
+        "name": "MicrosoftEdgeUpdate.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.017260044364587473,
+        "status": "running"
+    },
+    {
+        "pid": 15188,
+        "name": "FileCoAuth.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.10729216767175996,
+        "status": "running"
+    },
+    {
+        "pid": 15204,
+        "name": "fsnotifier.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.011276133364003557,
+        "status": "running"
+    },
+    {
+        "pid": 15220,
+        "name": "backgroundTaskHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.01635924055804796,
+        "status": "stopped"
+    },
+    {
+        "pid": 15256,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.029855211873881033,
+        "status": "running"
+    },
+    {
+        "pid": 15264,
+        "name": "unsecapp.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.03968362483451752,
+        "status": "running"
+    },
+    {
+        "pid": 15328,
+        "name": "Discord.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.13697043594078503,
+        "status": "running"
+    },
+    {
+        "pid": 15420,
+        "name": "Discord.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.799881608642569,
+        "status": "running"
+    },
+    {
+        "pid": 15452,
+        "name": "Discord.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.21992481505371847,
+        "status": "running"
+    },
+    {
+        "pid": 15872,
+        "name": "WidgetService.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.09258976268645432,
+        "status": "running"
+    },
+    {
+        "pid": 15892,
+        "name": "backgroundTaskHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.016745299332279178,
+        "status": "stopped"
+    },
+    {
+        "pid": 15952,
+        "name": "msedgewebview2.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.025415535970222,
+        "status": "running"
+    },
+    {
+        "pid": 16092,
+        "name": "msedgewebview2.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.2281124782238723,
+        "status": "running"
+    },
+    {
+        "pid": 16140,
+        "name": "backgroundTaskHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.011774792614052218,
+        "status": "stopped"
+    },
+    {
+        "pid": 16192,
+        "name": "msedgewebview2.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.14123316823958806,
+        "status": "running"
+    },
+    {
+        "pid": 16228,
+        "name": "ms-teams.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.1682090250889946,
+        "status": "running"
+    },
+    {
+        "pid": 16504,
+        "name": "msedgewebview2.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.23539933758748655,
+        "status": "running"
+    },
+    {
+        "pid": 16628,
+        "name": "CrossDeviceService.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.2847826891245635,
+        "status": "running"
+    },
+    {
+        "pid": 16712,
+        "name": "MicrosoftStartFeedProvider.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.1387881293361237,
+        "status": "running"
+    },
+    {
+        "pid": 16728,
+        "name": "RuntimeBroker.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.033699713833933595,
+        "status": "running"
+    },
+    {
+        "pid": 16736,
+        "name": "laragon (1).exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.08547984692769602,
+        "status": "running"
+    },
+    {
+        "pid": 16788,
+        "name": "RuntimeBroker.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.04278818081062691,
+        "status": "running"
+    },
+    {
+        "pid": 16808,
+        "name": "backgroundTaskHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.008348520992750139,
+        "status": "stopped"
+    },
+    {
+        "pid": 16812,
+        "name": "SearchProtocolHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.06312060958680452,
+        "status": "running"
+    },
+    {
+        "pid": 16956,
+        "name": "laragon.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.08544767536317675,
+        "status": "running"
+    },
+    {
+        "pid": 16968,
+        "name": "WinStore.App.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.8337582660813587,
+        "status": "running"
+    },
+    {
+        "pid": 17140,
+        "name": "taskhostw.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.08165143074990308,
+        "status": "running"
+    },
+    {
+        "pid": 17192,
+        "name": "nahimicNotifSys.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.1643966946934613,
+        "status": "running"
+    },
+    {
+        "pid": 17360,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.050975843980780706,
+        "status": "running"
+    },
+    {
+        "pid": 17376,
+        "name": "SearchFilterHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.04085788693947081,
+        "status": "running"
+    },
+    {
+        "pid": 17412,
+        "name": "LockApp.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.24545295149975793,
+        "status": "stopped"
+    },
+    {
+        "pid": 17468,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.09152810105731847,
+        "status": "running"
+    },
+    {
+        "pid": 17788,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.0648096167240661,
+        "status": "running"
+    },
+    {
+        "pid": 18016,
+        "name": "ai.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.07499191689441453,
+        "status": "running"
+    },
+    {
+        "pid": 18256,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.07413937043465392,
+        "status": "running"
+    },
+    {
+        "pid": 18264,
+        "name": "backgroundTaskHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.014831091243382711,
+        "status": "stopped"
+    },
+    {
+        "pid": 18412,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.0482895183434218,
+        "status": "running"
+    },
+    {
+        "pid": 18504,
+        "name": "backgroundTaskHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.014831091243382711,
+        "status": "stopped"
+    },
+    {
+        "pid": 18572,
+        "name": "msedge.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.021924921219881384,
+        "status": "running"
+    },
+    {
+        "pid": 18648,
+        "name": "msedge.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.07150130214407392,
+        "status": "running"
+    },
+    {
+        "pid": 18688,
+        "name": "msedge.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.08972649344423944,
+        "status": "running"
+    },
+    {
+        "pid": 18952,
+        "name": "Locator.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.013431628186794537,
+        "status": "running"
+    },
+    {
+        "pid": 19100,
+        "name": "backgroundTaskHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.015844495525739664,
+        "status": "stopped"
+    },
+    {
+        "pid": 19256,
+        "name": "WmiApSrv.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.03395708635008775,
+        "status": "running"
+    },
+    {
+        "pid": 19360,
+        "name": "conhost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.02679891324455054,
+        "status": "running"
+    },
+    {
+        "pid": 19404,
+        "name": "MoNotificationUx.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.05005895439198156,
+        "status": "running"
+    },
+    {
+        "pid": 19436,
+        "name": "SEGameTool.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.0477747733111135,
+        "status": "running"
+    },
+    {
+        "pid": 19616,
+        "name": "msedge.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.31775854275681353,
+        "status": "running"
+    },
+    {
+        "pid": 19756,
+        "name": "full-line-inference.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.8316671143876062,
+        "status": "running"
+    },
+    {
+        "pid": 19968,
+        "name": "backgroundTaskHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.016632698856461736,
+        "status": "stopped"
+    },
+    {
+        "pid": 20428,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.061640717618918164,
+        "status": "running"
+    },
+    {
+        "pid": 20860,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.03683644137456227,
+        "status": "running"
+    },
+    {
+        "pid": 20972,
+        "name": "backgroundTaskHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.013817686961025758,
+        "status": "stopped"
+    },
+    {
+        "pid": 21000,
+        "name": "backgroundTaskHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.014605890291747832,
+        "status": "stopped"
+    },
+    {
+        "pid": 21068,
+        "name": "RuntimeBroker.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.034021429479126286,
+        "status": "running"
+    },
+    {
+        "pid": 21120,
+        "name": "WINWORD.EXE",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.8733775477868376,
+        "status": "running"
+    },
+    {
+        "pid": 21300,
+        "name": "OneDrive.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.48776917545888715,
+        "status": "running"
+    },
+    {
+        "pid": 21324,
+        "name": "RuntimeBroker.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.1202573081730251,
+        "status": "running"
+    },
+    {
+        "pid": 21872,
+        "name": "dllhost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.05068629990010729,
+        "status": "running"
+    },
+    {
+        "pid": 22136,
+        "name": "backgroundTaskHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.016310983211269055,
+        "status": "stopped"
+    },
+    {
+        "pid": 22332,
+        "name": "backgroundTaskHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.01574798083218186,
+        "status": "running"
+    },
+    {
+        "pid": 22340,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.03165681948696006,
+        "status": "running"
+    },
+    {
+        "pid": 22744,
+        "name": "msedge.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.1174744678421084,
+        "status": "running"
+    },
+    {
+        "pid": 22924,
+        "name": "svchost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.041147431020144225,
+        "status": "running"
+    },
+    {
+        "pid": 25244,
+        "name": "backgroundTaskHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.01648792681612503,
+        "status": "stopped"
+    },
+    {
+        "pid": 25448,
+        "name": "Notepad.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.3142035848774344,
+        "status": "running"
+    },
+    {
+        "pid": 25468,
+        "name": "backgroundTaskHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.014670233420786369,
+        "status": "stopped"
+    },
+    {
+        "pid": 25604,
+        "name": "msedge.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.16587658666134764,
+        "status": "running"
+    },
+    {
+        "pid": 25996,
+        "name": "OpenConsole.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.04282035237514618,
+        "status": "running"
+    },
+    {
+        "pid": 26376,
+        "name": "conhost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.026654141204213833,
+        "status": "running"
+    },
+    {
+        "pid": 27612,
+        "name": "audiodg.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.20266477068913102,
+        "status": "running"
+    },
+    {
+        "pid": 27824,
+        "name": "python.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.2691312229859394,
+        "status": "running"
+    },
+    {
+        "pid": 27924,
+        "name": "backgroundTaskHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.1561607741765286,
+        "status": "stopped"
+    },
+    {
+        "pid": 29264,
+        "name": "backgroundTaskHost.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.006562999161930744,
+        "status": "stopped"
+    }
+]

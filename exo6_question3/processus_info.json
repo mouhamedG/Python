@@ -1,0 +1,16 @@
+[
+    {
+        "pid": 2436,
+        "name": "MemCompression",
+        "cpu_percent": 0.0,
+        "memory_percent": 5.776500924128191,
+        "status": "running"
+    },
+    {
+        "pid": 8856,
+        "name": "pycharm64.exe",
+        "cpu_percent": 0.0,
+        "memory_percent": 13.496453889300863,
+        "status": "running"
+    }
+]
